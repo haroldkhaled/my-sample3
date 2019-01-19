@@ -1,0 +1,16 @@
+{
+  "name": "PC06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d my dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://haroldkhaled.github.io/my sample3",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
